@@ -1,0 +1,10 @@
+.venv/
+.idea/
+.gigaide/
+.ipynb_checkpoints/
+__pycache__/
+mlruns/
+mlflow.db
+*.pth
+*.pkl
+all_tickets_processed_improved_v3.csv
